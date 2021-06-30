@@ -13,9 +13,7 @@
   <img align="center" alt="Ary-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ary-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ary-sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
- <img align="center" alt="Ary-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-original.svg">
   <img align="center" alt="Ary-JQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-  <img align="center" alt="Ary-npm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg">
   <img align="center" alt="Ary-yarn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg">
   <img align="center" alt="Ary-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Ary-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
